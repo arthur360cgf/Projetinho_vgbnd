@@ -1,0 +1,15 @@
+## YAML Template.
+---
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: auth_db
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: adminpassword
+      POSTGRES_DB: auth_service
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
