@@ -26,7 +26,7 @@ Microsserviço desenvolvido em **Java com Spring Boot** para centralizar o fluxo
 ### 2\. Clonar o repositório
 
 ```bash
-git clone \\\[https://github.com/arthur360cgf/Projetinho\_vgbnd](https://github.com/arthur360cgf/Projetinho\_vgbnd)
-cd Projetinho\_vgbnd
+git clone \\\[https://github.com/arthur360cgf/Projetinho_vgbnd](https://github.com/arthur360cgf/Projetinho_vgbnd)
+cd Projetinho_vgbnd
 
 
